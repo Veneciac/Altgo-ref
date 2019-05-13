@@ -1,4 +1,4 @@
-//NOTES
+// NOTES
 // X => EXTRA
 // L => LIGHT 
 // D => DARK 
